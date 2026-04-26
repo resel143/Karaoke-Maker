@@ -1,2 +1,6 @@
 *.pub
 .ssh/
+frontend/node_modules/
+backend/node_modules/
+backend/uploads/
+frontend/.next/
